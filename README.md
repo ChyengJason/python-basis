@@ -1,4 +1,4 @@
-### python 基础 --- for you
+### python 基础
 
 1. 安装 python3 和 pycharm 环境
 2. 打印一个"hello, world"
